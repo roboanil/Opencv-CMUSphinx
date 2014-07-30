@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\visual studio 2013\projects\colordetection\colordetection\main.cpp(91): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+d:\visual studio 2013\projects\colordetection\colordetection\main.cpp(92): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+  ColorDetection.vcxproj -> D:\Visual Studio 2013\Projects\ColorDetection\Debug\ColorDetection.exe
